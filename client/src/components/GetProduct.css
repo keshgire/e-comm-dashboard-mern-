@@ -1,0 +1,22 @@
+.get-product{
+    text-align: center;
+    
+}
+.get-product ul li{
+    display: inline-block;
+    border: 1px solid skyblue;
+    padding: 10px;
+    width: 200px;
+}
+
+.get-product ul{
+    margin: 0;
+}
+
+.search-box{
+    width: 500px;
+    height: 40px;
+    border: 1px solid skyblue;
+    padding-left: 30px;
+    margin: 25px;
+}

@@ -1,0 +1,19 @@
+.sign-up{
+    margin-left: 550px;
+}
+
+.sign-up input{
+    display: block;
+    margin: 20px;
+    padding: 20px;
+    width: 25%;
+    border: 1px solid skyblue;
+}
+
+.sign-up button{
+    padding: 20px;
+    margin: 20px;
+    background-color: skyblue;
+    border: 1px solid;
+    cursor: pointer;
+}
